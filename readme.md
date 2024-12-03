@@ -8,7 +8,7 @@ After having the model perform a pairwise analysis of every possible combination
 
 To run the jupyter notebook yourself, please do the following.
 
-1. Ensure that you have Python version 3.3+ downloaded on your machine; we build this project on version 3.12.7. You can check by simply running `python --version`
+1. Ensure that you have Python version 3.3+ downloaded on your machine; we built this project on version 3.12.7. You can check by simply running `python --version`
 
 2. Navigate to the [Chicago Face Database](https://www.chicagofaces.org) and download the dataset. Given the license of the dataset, we are not allowed to distribute the data ourselves but it is very easily accessible; there is an immediate turnaround between submitting the request form and receiving a download link.
 
