@@ -16,8 +16,12 @@ To run the jupyter notebook yourself, please do the following.
 
 4. Navigate to the project repo in terminal and run `python -m venv venv`.
 
-5. Run `source venv/bin/activate`
+5. Run `source venv/bin/activate`.
 
-6. Run `pip install -r requirements.txt`
+6. Run `pip install -r requirements.txt`.
 
-7. Open the Jupyter Notebook in your manner of choice, select the virtual environment `venv` as the kernel, and run the cells as you wish. Note that I have chosen to do so through VSCode, although this part may look different on your end.
+7. Open the Jupyter Notebook in your manner of choice, select the virtual environment `venv` as the kernel.
+
+8. Modify the `data_path` variable in the notebook according to the location of the dataset on your machine.
+
+9. Run the cells as you wish. We did so using VSCode although this may look different and require some configuring on your end.
